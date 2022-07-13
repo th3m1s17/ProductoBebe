@@ -1,0 +1,6 @@
+Productos codigo: 2121, Nombre: Cremas, Descripcion: bebesitos, Cantidad:  3, Precio: 15000
+El precio final es: 13500
+la cantidad es 3
+Productos codigo: 1210, Nombre: leche, Descripcion: sobrole, Cantidad:  2, Precio: 790
+el precio final es: 711
+la cantidad es :2
